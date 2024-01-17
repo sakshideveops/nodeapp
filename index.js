@@ -5,7 +5,7 @@ app.get('/', function (req, res) {
 <<<<<<< HEAD
  res.send('hello world');
 =======
- res.send('hello sakshi');
+ res.send('hello world');
 >>>>>>> 84ed444d5da2ebdcc193b27b4e1d0baa3946eb6c
 });//listen to port 3000 by default
 app.listen(process.env.PORT || 3000);
